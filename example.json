@@ -1,5 +1,5 @@
 {
-  "FLOOD": false,
-  "TARGET": "https://31-lovat-iota.vercel.app/",
+  "FLOOD": true,
+  "TARGET": "https://ouma.com/",
   "WORKERS": 25
 }
