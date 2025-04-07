@@ -1,5 +1,5 @@
 {
-  "FLOOD": true,
-  "TARGET": "https://ouma.com/",
+  "FLOOD": false,
+  "TARGET": "ttps://ouma.com/",
   "WORKERS": 5000
 }
