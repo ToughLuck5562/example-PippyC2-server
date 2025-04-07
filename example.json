@@ -1,5 +1,5 @@
 {
-  "FLOOD": false,
+  "FLOOD": true,
   "TARGET": "https://31-lovat-iota.vercel.app/",
   "WORKERS": 25
 }
